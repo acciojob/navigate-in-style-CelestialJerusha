@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicable */ 
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	display: inline;
+	margin-right: 1rem;
+}
+div{
+	background-color: #D3D3D3;
+	padding: 10px;
+}
